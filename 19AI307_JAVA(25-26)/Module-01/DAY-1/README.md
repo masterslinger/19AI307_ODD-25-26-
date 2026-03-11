@@ -31,7 +31,7 @@ RegisterNumber: 212224040346
 ```
 
 ## Sourcecode.java:
-```
+``` java
 import java.util.*;
 public class Main
 {
@@ -58,6 +58,7 @@ public class Main
 
 ## RESULT:
 Thus, the Java program demonstrating variables, data types, operators, and print statements was successfully executed.
+
 
 
 
